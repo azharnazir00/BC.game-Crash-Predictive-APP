@@ -1,4 +1,4 @@
-# BC.game-Crash-Predictive-APP
+# BC.game-Crash-Predictie-APP
 Application to predictive the BC crash game value.
 
 # 91% Ensure accuracy
